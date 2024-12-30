@@ -1,7 +1,7 @@
 
 public class TestQueryApp {
 	public static void main(String[] args) {
-		Joist.readRows(1);
+	  Joist.readRows(1);
 	}
-
-}
+  }
+  
